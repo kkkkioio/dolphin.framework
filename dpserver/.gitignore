@@ -1,0 +1,6 @@
+ink/
+node_modules/
+package-lock.json/
+bin/
+conf/inkbox.json
+conf/config.json

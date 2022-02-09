@@ -1,0 +1,6 @@
+{
+    "DbHost":"127.0.0.1:27001",
+    "DbUser":"username",
+    "DbPass":"password",
+    "DbName":"dbname"
+}

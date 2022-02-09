@@ -1,0 +1,9 @@
+{
+    "ServerID":1,
+    "WebHost":"127.0.0.1",
+    "WebPort":666,
+    "DbHost":"127.0.0.1:27001",
+    "DbUser":"username",
+    "DbPass":"password",
+    "DbName":"dbname"
+}

@@ -1,0 +1,28 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"outDir": "./temp",
+		"sourceMap": true,
+		"target": "esnext",
+		"module": "esnext",
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"noImplicitAny": true,
+		"suppressImplicitAnyIndexErrors": true,
+		"noImplicitThis": true,
+		"lib": [
+			"esnext",
+			"dom"
+		],
+		"types": [
+			"node"
+		],
+		"declaration": false
+	},
+	"include": [
+		"src/**/*",
+		"include/**/*"
+	]
+}
